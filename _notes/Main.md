@@ -4,3 +4,5 @@ I'm currently studying for becoming / getting job as a Data Analyst and this is 
 
 Below is the folder of information of the blog.
 
+[[CS 229 - Index]]
+[[Kaggle - Index]]
