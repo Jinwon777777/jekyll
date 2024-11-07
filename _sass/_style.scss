@@ -144,3 +144,14 @@ code {
   color: #ccc;
   cursor: help;
 }
+
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
