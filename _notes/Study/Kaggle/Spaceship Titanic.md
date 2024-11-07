@@ -1,7 +1,4 @@
----
-dg-publish: true
----
-
+[[Kaggle - Index]]
 
 Based on ## 🚀 Spaceship Titanic: A complete guide 🏆
   https://www.kaggle.com/kernels/fork-version/92521620

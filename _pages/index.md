@@ -8,12 +8,13 @@ permalink: /
 # Welcome!
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  This is the guide of this Blog <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  This is the guide of this Blog <span style="font-weight: bold">[[Main]]</span>.
 </p>
 
 Digital Garden Template from [Github here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
 If interested, [step-by-step guide](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+
 <strong>Recently updated notes</strong>
 
 <ul>
